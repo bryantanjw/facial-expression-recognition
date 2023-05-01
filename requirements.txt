@@ -1,5 +1,5 @@
 tensorflow==2.0.1
 numpy==1.22.0
 opencv-python==4.2.0.34
-Flask==1.1.2
+Flask==2.3.2
 gunicorn==19.9.0
